@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+import React, {PropTypes} from 'react'
+
+export default function ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} (props) {
+  return (
+    <div></div>
+  )
+}
+
+${1}.propTypes = {
+
+}
+
+${1}.defaultProps = {
+
+}
+
+]]></content>
+<tabTrigger>reactstateless</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,24 @@
+{
+   "scope": "source.js",
+
+   "completions":
+   [
+      { "trigger": ".isRequired", "contents": ".isRequired"},
+      { "trigger": "PropTypes", "contents": "PropTypes" },
+      { "trigger": "PropTypes.any", "contents": "PropTypes.any" },
+      { "trigger": "PropTypes.array", "contents": "PropTypes.array" },
+      { "trigger": "PropTypes.arrayOf", "contents": "PropTypes.arrayOf($0)"},
+      { "trigger": "PropTypes.bool", "contents": "PropTypes.bool" },
+      { "trigger": "PropTypes.element\tReact element", "contents": "PropTypes.element" },
+      { "trigger": "PropTypes.func", "contents": "PropTypes.func" },
+      { "trigger": "PropTypes.node", "contents": "PropTypes.node" },
+      { "trigger": "PropTypes.number", "contents": "PropTypes.number" },
+      { "trigger": "PropTypes.object", "contents": "PropTypes.object" },
+      { "trigger": "PropTypes.objectOf", "contents": "PropTypes.objectOf($0)"},
+      { "trigger": "PropTypes.oneOf", "contents": "PropTypes.oneOf([$0])"},
+      { "trigger": "PropTypes.oneOfType", "contents": "PropTypes.oneOfType([$0])"},
+      { "trigger": "PropTypes.shape", "contents": "PropTypes.shape({$0})"},
+      { "trigger": "PropTypes.string", "contents": "PropTypes.string" },
+      { "trigger": "PropTypes.symbol", "contents": "PropTypes.symbol" }
+   ]
+}

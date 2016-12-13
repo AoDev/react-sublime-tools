@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+export {default} from './${1:${TM_FILEPATH/(\/.+)*\/(.+)\/(.+)\.js$/$2/:name}}'
+
+]]></content>
+<tabTrigger>exportreact</tabTrigger>
+<scope>source.js</scope>
+</snippet>
+
